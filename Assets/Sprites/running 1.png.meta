@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 056ae19289439e34aa8035f4e54703ef
+timeCreated: 1485014585
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: running_0
+    21300002: running_1
+    21300004: running_2
+    21300006: running_3
+    21300008: running_4
+    21300010: running_5
+    21300012: running_6
+    21300014: running_7
+    21300016: running_8
+    21300018: running_9
+    21300020: running_10
+    21300022: running_11
+    21300024: running_12
+    21300026: running_13
+    21300028: running_14
+    21300030: running_15
+    21300032: running_16
+    21300034: running_17
+    21300036: running_18
+    21300038: running_19
+    21300040: running_20
+    21300042: running_21
+    21300044: running_22
+    21300046: running_23
+    21300048: running_24
+    21300050: running_25
+    21300052: running_26
+    21300054: running_27
+    21300056: running_28
+    21300058: running_29
+    21300060: running_30
+    21300062: running_31
+    21300064: running_32
+    21300066: running_33
+    21300068: running_34
+    21300070: running_35
+    21300072: running_36
+    21300074: running_37
+    21300076: running_38
+    21300078: running_39
+    21300080: running_40
+    21300082: running_41
+    21300084: running_42
+    21300086: running_43
+    21300088: running_44
+    21300090: running_45
+    21300092: running_46
+    21300094: running_47
+    21300096: running_48
+    21300098: running_49
+    21300100: running_50
+    21300102: running_51
+    21300104: running_52
+    21300106: running_53
+    21300108: running_54
+    21300110: running_55
+    21300112: running_56
+    21300114: running_57
+    21300116: running_58
+    21300118: running_59
+    21300120: running_60
+    21300122: running_61
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 724, y: 1490, z: 948, w: 608}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: running_15
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1782
+        width: 233
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: running_20
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1490
+        width: 233
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
