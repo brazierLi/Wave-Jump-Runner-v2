@@ -78,6 +78,7 @@ public class Player_Controller : MonoBehaviour
     void OnCollisionExit2D(Collision2D col)
     {
         CurrentHit = new Collision2D();
+        HitGround = false;
         CurrentHitTag = "";
     }
 }
